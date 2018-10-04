@@ -2,6 +2,12 @@
 Changelog
 =========
 
+Changes in v0.2.9
+=================
+- Add the possibility to share redis instance
+- ``redis_instance`` exposed
+- ``redis_instance`` parameter added in constructor
+
 Changes in v0.2.8
 =================
 - Use HTTPS in distribute_setup.py
